@@ -1,6 +1,6 @@
 package interview;
 
-//快速排序
+//快速排序 
 public class QuickSort {
     public static void quickSort(int[] data,int low,int high){
         int i, j, temp, t;
